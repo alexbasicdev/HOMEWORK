@@ -11,3 +11,9 @@ for f in number:
     prod *= int(f)
 print(f"Сумма цифр числа {number}: {sum}")
 print(f"Произведение цифр: {number}: {prod}")
+
+
+
+
+
+#test
